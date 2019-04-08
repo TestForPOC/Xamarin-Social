@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>/Users/princegandhi/Downloads/Sample-XamarinAuth-Google-master 2/Xamarin_GoogleAuth.Android/obj/Debug/lp/1/jl/support-annotations.jar</Jar>
+    <Jar>/Users/princegandhi/Downloads/Sample-XamarinAuth-Google-master 2/Xamarin_GoogleAuth.Android/obj/Debug/lp/2/jl/bin/classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/princegandhi/Downloads/Sample-XamarinAuth-Google-master 2/Xamarin_GoogleAuth.Android/obj/Debug/lp/3/jl/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/lp/3/jl/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/princegandhi/Downloads/Sample-XamarinAuth-Google-master 2/Xamarin_GoogleAuth.Android/obj/Debug/lp/3.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
