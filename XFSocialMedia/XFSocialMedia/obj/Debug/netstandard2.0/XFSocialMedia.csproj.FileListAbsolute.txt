@@ -1,0 +1,13 @@
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/bin/Debug/netstandard2.0/XFSocialMedia.deps.json
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/bin/Debug/netstandard2.0/XFSocialMedia.dll
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/bin/Debug/netstandard2.0/XFSocialMedia.pdb
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/obj/Debug/netstandard2.0/LoginOptionsPage.xaml.g.cs
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/obj/Debug/netstandard2.0/LoginPage.xaml.g.cs
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/obj/Debug/netstandard2.0/XFSocialMedia.csproj.CoreCompileInputs.cache
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/obj/Debug/netstandard2.0/XFSocialMedia.AssemblyInfoInputs.cache
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/obj/Debug/netstandard2.0/XFSocialMedia.AssemblyInfo.cs
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/obj/Debug/netstandard2.0/XFSocialMedia.dll
+/Users/princegandhi/Documents/XFSocialMedia/XFSocialMedia/obj/Debug/netstandard2.0/XFSocialMedia.pdb
