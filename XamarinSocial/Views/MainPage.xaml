@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:XamarinSocial" 
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"             
+             prism:ViewModelLocator.AutowireViewModel="True"
+             Title="Social Media Login"
+             x:Class="XamarinSocial.Views.MainPage">
+    <StackLayout Orientation="Vertical">
+        <!-- Place new controls here -->
+        <Button Text= "Login With Facebook" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"  Command="{Binding LoginWithFacebookCommand}" />
+        <Button Text= "Login With Gmail" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Command="{Binding LoginWithGmailCommand}"/>
+        <Button Text= "Login With LinkedIn" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Command="{Binding LoginWithLinkedInCommand}" />
+        <Button Text= "Login With Twitter" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+
+    </StackLayout>
+</ContentPage>
