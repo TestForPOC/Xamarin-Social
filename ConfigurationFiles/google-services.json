@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "235952548545",
+    "firebase_url": "https://circular-beacon-236409.firebaseio.com",
+    "project_id": "circular-beacon-236409",
+    "storage_bucket": "circular-beacon-236409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235952548545:android:f480f54201673393",
+        "android_client_info": {
+          "package_name": "com.xamarin.XamarinSocial2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235952548545-np941jhq1d3qj35qqv026psnbgnnpha2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xamarin.XamarinSocial2",
+            "certificate_hash": "917230049365e8f5d597ed7cfc8ab6a22ae08d4f"
+          }
+        },
+        {
+          "client_id": "235952548545-bq2ce6dav9gsb0104a4vh0mpknonv9i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxVcjajIFOS0ifHyggNGEKOYL7N2uE098"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235952548545-bq2ce6dav9gsb0104a4vh0mpknonv9i4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235952548545-b7b38o35olsu15u2aago5ljkrad6ghb8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xamarin.XamarinSocial2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
